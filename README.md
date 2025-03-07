@@ -34,6 +34,10 @@
 - **Frutonic fingerpring**: A windows forms and console fingerprint reader application to read and compare fingerprints
   - [Repo](https://github.com/tavershimafx/FutronicFingerPrint)
 
+## C# Console/library projects
+- **Latch**:The latch file analyzer is a binary file checker which determines the actual type of a file by reading the file byte headers which signifies its precise type.
+  [Repo](https://github.com/tavershimafx/Latch)
+
 ## Other utilities
 - **Email templates**: some implementation of email template images picked from the internet
   - [Repo](https://github.com/tavershimafx/email-templates)
