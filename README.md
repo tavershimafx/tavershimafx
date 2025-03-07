@@ -1,5 +1,42 @@
-### Hi there 👋
+### Hi there this is Tavershima's github confinement👋
 
+## Angular projects
+- **Fileshare**: a simple peer-to-peer file sharing user interface 
+  - [Repo](https://github.com/tavershimafx/fileshare) - [Demo](https://sharedrive.vercel.app/)
+- **Agalliao web**: a music streaming user interface
+  - [Repo](https://github.com/tavershimafx/agalliao-web) - [Demo](https://agalliao-web.vercel.app/)
+- **Syed Medical**: A user interface for a medical hospital
+  - [Repo](https://github.com/tavershimafx/syed-Medical) - [Demo](https://syed-medical.vercel.app/)
+- **Exxonal**: a simple user portfolio website
+  - [Repo](https://github.com/tavershimafx/exxonal) - [Demo](https://exxonal.vercel.app/)
+- **timespan-bx**:An angular based timespan pipe used to convert a date into a friendly time occurence of how long an entity existsted
+  - [Repo](https://github.com/tavershimafx/timespan-bx)
+- **slugify-bx**: An angular based slug transformer. Converts plain texts, sentences into a slug based representation for urls
+  - [Repo](https://github.com/tavershimafx/slugify-bx)
+
+## Ionic projects
+- **Monibank**: a banking and utilities mobile application built with ionic. The project UI is sourced from the figma community
+  - [Repo](https://github.com/tavershimafx/monibank-mobile)
+
+## Asp.net core projects
+- **Prudent women**: a loan management application built for Prudent women organisation
+  - [Repo](https://github.com/tavershimafx/PrudentWomen)
+
+## WPF projects
+- **ChatONN**: a simple chat user interface implementation obtained from the figma community
+  - [Repo](https://github.com/tavershimafx/ChatONN)
+- **Whatsapp**: A whatsapp web implementation in WPF
+  - [Repo](https://github.com/tavershimafx/WhatsApp)
+- **Resume**: a resume builder implemented in WPF
+  - [Repo](https://github.com/tavershimafx/Resume)
+
+## Windows Forms projects
+- **Frutonic fingerpring**: A windows forms and console fingerprint reader application to read and compare fingerprints
+  - [Repo](https://github.com/tavershimafx/FutronicFingerPrint)
+
+## Other utilities
+- **Email templates**: some implementation of email template images picked from the internet
+  - [Repo](https://github.com/tavershimafx/email-templates)
 <!--
 **tavershimafx/tavershimafx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
