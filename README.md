@@ -31,7 +31,7 @@
   - [Repo](https://github.com/tavershimafx/Resume)
 
 ## Windows Forms projects
-- **Frutonic fingerpring**: A windows forms and console fingerprint reader application to read and compare fingerprints
+- **Frutonic fingerprint**: A windows forms and console fingerprint reader application to read and compare fingerprints
   - [Repo](https://github.com/tavershimafx/FutronicFingerPrint)
 
 ## C# Console/library projects
