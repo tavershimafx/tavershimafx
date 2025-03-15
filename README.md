@@ -3,6 +3,8 @@
 ## Angular projects
 - **Fileshare**: a simple peer-to-peer file sharing user interface 
   - [Repo](https://github.com/tavershimafx/fileshare) - [Demo](https://sharedrive.vercel.app/)
+- **Office Mail**: A simple email application user interface to read, compose, organise and send mails
+  - [Repo](https://github.com/tavershimafx/office-mail) - [Demo](https://office-mail.vercel.app/)
 - **Agalliao web**: a music streaming user interface
   - [Repo](https://github.com/tavershimafx/agalliao-web) - [Demo](https://agalliao-web.vercel.app/)
 - **Syed Medical**: A user interface for a medical hospital
