@@ -1,6 +1,8 @@
 ### Hi there this is Tavershima's github confinement👋
 
 ## Angular projects
+- **Hiphonic Dashboard**: A general admin control dashboard. It contains project management tools, sales and analytics, email management, job listing
+  - [Repo](https://github.com/tavershimafx/hiponic-dashboard) - [Demo](https://hiponic-dashboard.vercel.app/)
 - **Fileshare**: a simple peer-to-peer file sharing user interface 
   - [Repo](https://github.com/tavershimafx/fileshare) - [Demo](https://sharedrive.vercel.app/)
 - **Office Mail**: A simple email application user interface to read, compose, organise and send mails
