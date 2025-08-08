@@ -1,6 +1,9 @@
 ### Hi there this is Tavershima's github confinement👋
 
 ## Angular projects
+
+- **OpenSheets**: An exact replica of Microsoft Excel in angular. Still in development
+  - [Repo](https://github.com/tavershimafx/spreadsheet) - [Demo](https://open-sheets.vercel.app/)
 - **Hiphonic Dashboard**: A general admin control dashboard. It contains project management tools, sales and analytics, email management, job listing
   - [Repo](https://github.com/tavershimafx/hiponic-dashboard) - [Demo](https://hiponic-dashboard.vercel.app/)
 - **Fileshare**: a simple peer-to-peer file sharing user interface 
